@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🤔 About Me
 
-🔭 I’m currently working on my job search and the Headstarter Fellowship!\
+🔭 I’m currently working on my job search!\
 🌱 Quick learner, curious and looking forward to innovation.\
 😎 Coding since 2022 with software engineering boot camp experience, an internship, and the desire to learn more. 
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:jzhang22la@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jeffreyzhangsd/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
