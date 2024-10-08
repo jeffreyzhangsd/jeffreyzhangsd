@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🤔 About Me
 
-🔭 I’m currently working on my job search!\
+🔭 I just started working as an SDE!\
 🌱 Quick learner, curious and looking forward to innovation.\
 😎 Coding since 2022 with software engineering boot camp experience, an internship, and the desire to learn more. 
 
