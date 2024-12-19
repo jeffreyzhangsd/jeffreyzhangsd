@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 </details>
 
 <p align="center">
-
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=jeffreyzhangsd&theme=modern-lilac" />
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeffreyzhangsd&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </p>
 
