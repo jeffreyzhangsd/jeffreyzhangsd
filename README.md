@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 </details>
 
 <p align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeffreyzhangsd&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jeffreyzhangsd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 </p>
 
