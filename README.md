@@ -60,15 +60,13 @@ Here are some ideas to get you started:
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
 </details>
-
+<!-- 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jeffreyzhangsd&theme=dark&hide_border=true" alt="GitHub Streak" />
-
 </p>
-
+-->
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=jeffreyzhangsd&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/jeffreyzhangsd/jeffreyzhangsd?color=black&logo=github" />
+<!-- <img src="https://badges.pufler.dev/visits/jeffreyzhangsd/jeffreyzhangsd?color=black&logo=github" /> -->
 </p>
