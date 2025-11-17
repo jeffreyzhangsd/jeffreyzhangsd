@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 ### 🤔 About Me
 
-🔭 I just started working as an SDE!\
+🔭 I've been a software engineer for a year!\
 🌱 Quick learner, curious and looking forward to innovation.\
-😎 Coding since 2022 with software engineering boot camp experience, an internship, and the desire to learn more. 
+😎 Coding since 2022 from software engineering boot camp experience, to an internship, to my first full-time job.
 
 🏈 Football and baseball enjoyer. Go Padres. \
-👾 Competitive gamer. LoL, OSU!, Apex and more.
+👾 Competitive gamer.
+🎹 Piano guy (Chopin #1!)
 
 <p align="center">
   <a href="mailto:jzhang22la@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
