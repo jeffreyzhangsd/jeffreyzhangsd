@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 😎 Coding since 2022 from software engineering boot camp experience, to an internship, to my first full-time job.
 
 🏈 Football and baseball enjoyer. Go Padres. \
-👾 Competitive gamer.
+👾 Competitive gamer.\
 🎹 Piano guy (Chopin #1!)
 
 <p align="center">
