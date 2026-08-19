@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🤔 About Me
 
-🔭 I've been a software engineer for a year!\
+🔭 I've been a software engineer about 2 years!\
 🌱 Quick learner, curious and looking forward to innovation.\
 😎 Coding since 2022 from software engineering boot camp experience, to an internship, to my first full-time job.
 
