@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 🎹 Casual Piano guy (Chopin is my #1)
 
 <p align="center">
-  <link href="jeffreyzhang.github.io"><h3>Check out my personal website!</h3></link>
+  <a href="https://jeffreyzhangsd.github.io" target="_blank">Check out my personal website!</a>
 </p>
 
 <p align="center">
